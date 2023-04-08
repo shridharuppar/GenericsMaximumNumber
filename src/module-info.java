@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author pooja
- *
- */
-module GenericsMaximumNumber {
-}
